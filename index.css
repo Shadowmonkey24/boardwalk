@@ -5,6 +5,7 @@ body{
     font-size: 18px;
 }
 .container{
+    margin: 0 auto;
      width: 620px;
 }
 
@@ -37,7 +38,7 @@ a{
     color: #ef5839;
 }
 
-a:hover{
+a:hover, a:focus{
     color: #7a30c2;
 }
 
